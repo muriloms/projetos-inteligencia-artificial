@@ -6,6 +6,7 @@ https://github.com/muriloms/projetos-inteligencia-artificial/blob/master/ambient
 
 ## Material de Cursos
 - Deep Learning Specialization - Coursera
+
 https://github.com/muriloms/coursera-DeepLearningSpecialization/tree/master
 
 ## Machine Learning
