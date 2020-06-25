@@ -13,5 +13,9 @@ https://github.com/muriloms/coursera-DeepLearningSpecialization/tree/master
 
 
 ## Deep Learning
+- TensorFlow 2 Básico
 
+Comandos introdutórios do TensorFlow 2, um dos principais frameworks para Deep Learning
+
+https://github.com/muriloms/tf-basico
 ## Reinforcement learning
