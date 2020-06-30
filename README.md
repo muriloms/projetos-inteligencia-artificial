@@ -10,7 +10,10 @@ https://github.com/muriloms/projetos-inteligencia-artificial/blob/master/ambient
 https://github.com/muriloms/coursera-DeepLearningSpecialization/tree/master
 
 ## Machine Learning
+### -- Prever chances de admissão no mestrado com regressão linear e TensoFlow
+Criar um modelo de regressão linear capaz de prever as chances de admissão de um aluno em uma universidade, dadas algumas características
 
+https://github.com/muriloms/tf-basico/blob/master/jupyter-notebook/regressao-linear-tf/PreverChancesDeAdmissoaNoMestrado.ipynb
 
 ## Deep Learning
 - TensorFlow 2 Básico
