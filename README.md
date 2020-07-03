@@ -15,6 +15,10 @@ Criar um modelo de regressão linear capaz de prever as chances de admissão de 
 
 https://github.com/muriloms/tf-basico/blob/master/jupyter-notebook/estudos/regressao-linear-tf/PreverChancesDeAdmissoaNoMestrado.ipynb
 
+### -- Classificar imagens de itens de vestuário
+Treinar rede neural feed-forward simples com banco de dados de imagens de itens de vestuário para classificar dentro do conjunto de 10 categorias
+https://github.com/muriloms/tf-basico/blob/master/jupyter-notebook/estudos/classificacao-tf/ClassificarImagensItensVestuario.ipynb
+
 ## Deep Learning
 - TensorFlow 2 Básico
 
