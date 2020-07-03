@@ -17,12 +17,14 @@ https://github.com/muriloms/tf-basico/blob/master/jupyter-notebook/estudos/regre
 
 ### -- Classificar imagens de itens de vestuário
 Treinar rede neural feed-forward simples com banco de dados de imagens de itens de vestuário para classificar dentro do conjunto de 10 categorias
+
 https://github.com/muriloms/tf-basico/blob/master/jupyter-notebook/estudos/classificacao-tf/ClassificarImagensItensVestuario.ipynb
 
 ## Deep Learning
-- TensorFlow 2 Básico
+## -- TensorFlow 2 Básico
 
 Comandos introdutórios do TensorFlow 2, um dos principais frameworks para Deep Learning
 
 https://github.com/muriloms/tf-basico
+
 ## Reinforcement learning
