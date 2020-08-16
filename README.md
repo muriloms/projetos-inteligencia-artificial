@@ -28,3 +28,11 @@ Comandos introdutórios do TensorFlow 2, um dos principais frameworks para Deep 
 https://github.com/muriloms/tf-basico
 
 ## Reinforcement learning
+
+
+## Jogos
+- Camuflagem com algoritmos genéticos
+
+Estudo da evolução da camuflagem com algoritmo genético na engine Unity
+
+https://github.com/muriloms/unity-genetic-algorithms-camouflage
